@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.defaultEncoding": "utf8",
+    "files.associations": {
+        "type_traits": "cpp",
+        "vector": "cpp"
+    }
+}
