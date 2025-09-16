@@ -2,3 +2,4 @@ cmake_minimum_required(VERSION 3.10)
 project(cpp_study)
 
 add_subdirectory(cpp11)
+add_subdirectory(cpp03)
